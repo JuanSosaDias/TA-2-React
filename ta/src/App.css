@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  background-color: #64bb81;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: left;
+}
+
+.cards-container {
+  justify-content: center;
+}
+
+.card h2 {
+  margin: 0;
+  color: #d31d1d;
+}
+
+.card p {
+  margin: 5px 0;
+}
